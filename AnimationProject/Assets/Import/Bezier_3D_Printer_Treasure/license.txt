@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bezier 3D Printer Treasure
+* source:	https://sketchfab.com/3d-models/bezier-3d-printer-treasure-755c91fc6b1349d6b847452ff49e4beb
+* author:	Alex Ludkevich (https://sketchfab.com/GTAZD)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bezier 3D Printer Treasure" (https://sketchfab.com/3d-models/bezier-3d-printer-treasure-755c91fc6b1349d6b847452ff49e4beb) by Alex Ludkevich (https://sketchfab.com/GTAZD) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
